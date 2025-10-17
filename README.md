@@ -1,4 +1,4 @@
-
+#Check Release section to install RAT
 ⚠️ Disclaimer
 
 This project is intended strictly for educational and defensive cybersecurity research.
