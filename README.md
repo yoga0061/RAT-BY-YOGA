@@ -1,12 +1,8 @@
-📦 Download the Release
 
-Go to the Releases
- section of this repository.
+⚠️ Disclaimer
 
-Download the latest .zip file under Assets.
+This project is intended strictly for educational and defensive cybersecurity research.
+The creator does not support, promote, or take responsibility for any misuse of this material, including hacking, unauthorized access, or malicious activity.
 
-Extract and use it only in a secure, isolated lab environment — not on personal or production devices.
-
-Read the release notes for updates and safety instructions.
-
-⚠️ For defensive research only. Never use these files to deploy or operate malware.
+By downloading or using any files from this repository, you agree to use them only in a controlled, legal, and ethical manner — such as malware analysis, detection research, or academic study.
+#Check Release section to install RAT
